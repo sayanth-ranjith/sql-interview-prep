@@ -16,12 +16,12 @@
 
 select department, sum(laptops) 
 from data_info
-group by department;
+group by department; -- refer to screenshot 1
 
 -- group by is where you might have some confusion so focus there. Remember the (DC - GD) pro tip lol!
 ```
 
 
 ## Screenshot
-
+- Screenshot 1
 ![Screenshot](https://github.com/user-attachments/assets/f47026a5-8655-4bc0-87ba-82709622d003)
