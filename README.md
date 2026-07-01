@@ -19,7 +19,6 @@ from data_info
 group by department;
 
 -- Output
-<img width="287" height="192" alt="image" src="https://github.com/user-attachments/assets/f47026a5-8655-4bc0-87ba-82709622d003" />
-
+![Screenshot] (https://github.com/user-attachments/assets/f47026a5-8655-4bc0-87ba-82709622d003)
 -- group by is where you might have some confusion so focus there. Remember the (DC - GD) pro tip lol!
 ```
